@@ -67,7 +67,22 @@ The system enables users to submit support tickets, while admins can manage, rep
 ## 🧠 Future Improvements
 - Migrate to **Laravel Framework** for MVC structure  
 - Add **JWT authentication** for secure API access  
-- Integrate **Admin analytics dashboard (Chart.js / Power BI)**  
+- Integrate **Admin analytics dashboard (Chart.js / Power BI)**
+
+--
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](tech_home.png)
+
+### 🧾 Contact Page
+![Contact Page](tech_contact.png)
+
+### 📰 Blog Page
+![Blog Page](tech_blogs.png)
+
+### 🛠️ Services Page
+![Services Page](tech_services.png)
 
 ---
 
