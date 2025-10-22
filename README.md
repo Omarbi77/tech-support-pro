@@ -83,8 +83,4 @@ The system enables users to submit support tickets, while admins can manage, rep
 ## 📬 Contact
 Developed by **Omar Alotaibi**  
 📧 [alotaibiomar7@outlook.sa](mailto:alotaibiomar7@outlook.sa)  
-🌐 [LinkedIn](https://linkedin.com) | [Credly](https://credly.com)
-
-Developed by **Omar Alotaibi**  
-📧 [alotaibiomar7@outlook.sa](mailto:alotaibiomar7@outlook.sa)  
 🌐 [LinkedIn](https://www.linkedin.com/in/omar-alotaibi11071998/) | [Credly]([https://credly.com](https://www.credly.com/users/omar_alotaibi))
